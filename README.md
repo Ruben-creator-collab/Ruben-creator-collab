@@ -38,7 +38,6 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruben-creator-collab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Ruben-creator-collab&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 ---
