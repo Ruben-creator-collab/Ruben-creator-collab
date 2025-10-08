@@ -37,8 +37,6 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
   <a href="https://git.io/streak-stats" img src="https://streak-stats.demolab.com?user=Ruben-creator-collab&theme=tokyonight-duo&locale=es" alt="GitHub Streak" /></a>
 </p>
 
-
-
 ---
 
 ## 📫 Contacto / Contact
