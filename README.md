@@ -34,8 +34,10 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruben-creator-collab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ruben-creator-collab&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ruben-creator-collab&theme=tokyonight-duo&locale=es" alt="GitHub Streak" /></a>
 </p>
+
+
 
 ---
 
