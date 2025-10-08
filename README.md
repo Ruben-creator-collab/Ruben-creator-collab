@@ -46,4 +46,8 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 
 ---
 
+<p align="center">
+  <img src="https://minimalistic-wallpaper.demolab.com/alena-aenami-stardust.jpg" alt="Minimalistic Wallpaper Banner" width="100%" />
+</p>
+
 Siempre al pie del cañon 💪💪💪
