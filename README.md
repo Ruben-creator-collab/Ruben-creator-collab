@@ -4,6 +4,10 @@ Soy **Rubén**, estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasiona
 
 I'm **Rubén**, a **Web Application Development (DAW)** student passionate about technology, continuous learning, and building clean, efficient solutions.
 
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Banner Minimalista" width="100%" />
+</p>
+
 ---
 
 ## 💡 Sobre mí / About me
@@ -43,9 +47,5 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 - 📧 Email: *rrivflo1209@g.educaand.es*
 
 ---
-
-<p align="center">
-  <img src="./assets/banner.jpg" alt="Banner Minimalista" width="100%" />
-</p>
 
 Siempre al pie del cañon 💪💪💪
