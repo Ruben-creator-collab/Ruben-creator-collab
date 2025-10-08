@@ -1,25 +1,48 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruben-creator-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruben-creator-collab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ruben-creator-collab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ruben-creator-collab&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruben-creator-collab&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+# 👋 ¡Hola! / Hi there!
 
-###
+Soy **Rubén**, estudiante de **Desarrollo de Aplicaciones Web (DAW)**, apasionado por la tecnología, el aprendizaje constante y la creación de soluciones funcionales y bien estructuradas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
+I'm **Rubén**, a **Web Application Development (DAW)** student passionate about technology, continuous learning, and building clean, efficient solutions.
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ruben-creator-collab.Ruben-creator-collab&"  />
-</div>
+## 💡 Sobre mí / About me
+- 🎓 Estudiante de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**.  
+- 💻 Con conocimientos en **HTML**, **CSS** y manejo del entorno **Anaconda**.  
+- 🚀 Actualmente aprendiendo **Java**, **Git** y **MySQL**.  
+- 📈 Enfocado en mejorar mis habilidades en desarrollo backend y bases de datos.  
+- 🌱 Interesado en el desarrollo web moderno y la optimización del código.  
 
-###
+---
+
+## 🛠️ Tecnologías / Technologies
+
+### 🧩 Lenguajes y Herramientas / Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,anaconda" />
+</p>
+
+---
+
+## 📚 Objetivos / Goals
+- Desarrollar proyectos que integren frontend y backend de forma eficiente.  
+- Contribuir a proyectos open source en el futuro.  
+- Mejorar día a día en buenas prácticas de programación.  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contacto / Contact
+- 📧 Email: *rrivflo1209@g.educaand.es*   
+
+---
+
+⭐ *“El código limpio no solo funciona, también se entiende.”*  
+⭐ *“Clean code doesn’t just work — it speaks for itself.”*
