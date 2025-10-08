@@ -42,9 +42,5 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 ---
 
 ## 📫 Contacto / Contact
-- 📧 Email: *rrivflo1209@g.educaand.es*   
+- 📧 Email: *rrivflo1209@g.educaand.es*
 
----
-
-⭐ *“El código limpio no solo funciona, también se entiende.”*  
-⭐ *“Clean code doesn’t just work — it speaks for itself.”*
