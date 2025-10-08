@@ -44,3 +44,6 @@ I'm **Rubén**, a **Web Application Development (DAW)** student passionate about
 ## 📫 Contacto / Contact
 - 📧 Email: *rrivflo1209@g.educaand.es*
 
+---
+
+Siempre al pie del cañon 💪💪💪
