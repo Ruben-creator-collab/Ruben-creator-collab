@@ -1,14 +1,12 @@
-<!-- ===== 👋 PRESENTACIÓN / INTRO ===== -->
 <h1 align="center">👋 ¡Hola! / Hi there!</h1>
 
 <p align="center">
-  Soy <strong>Sigma</strong> (también conocido como Rubén), estudiante de <strong>Desarrollo de Aplicaciones Web (DAW)</strong> apasionado por el código limpio, la mejora constante y las soluciones tecnológicas bien diseñadas.<br>
-  I'm <strong>Sigma</strong> (aka Rubén), a <strong>Web Application Development (DAW)</strong> student passionate about clean code, continuous improvement, and efficient software solutions.
+  Soy <strong>Rubén</strong>, estudiante de <strong>Desarrollo de Aplicaciones Web (DAW)</strong> apasionado por el código limpio, la mejora constante y las soluciones tecnológicas bien diseñadas.<br>
+  I'm <strong>Rubén</strong>, a <strong>Web Application Development (DAW)</strong> student passionate about clean code, continuous improvement, and efficient software solutions.
 </p>
 
 ---
 
-<!-- ===== 🎨 BANNER / HEADER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:007acc&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff" alt="header" />
 </p>
